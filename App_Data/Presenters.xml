@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<presenters>
+	<presentations>
+		<presentationtitle>
+			Practical and Applied Technology in Hollywood
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Matt Lewis
+			</presentername>
+			<title>
+				Production Engineer 
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/MattLewis.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Before a career in the studio system, Matthew Lewis was an enthusiastic member of the hacker 
+				community of the early 1990s. After a few run-ins with the law and a successful dot com-era startup, Matthew
+				was snatched up by Universal Pictures as a part of a studio-wide effort to adapt the marketing of motion 
+				pictures into the digital era. Starting on films like <i>American Pie</i> and <i>The Mummy</i>, Matthew has 
+				spent the last 14 years leveraging his technical background with his production experience into an unusual career 
+				of blowing up buildings, tracking reality-show contestants in remote areas, and even creating massive interactive 
+				darkhouse-ride experiences for films like <i>Resident Evil</i>. Matthew's talk will go behind the scenes into the 
+				practical application of technology in Hollywood &mdash; with never before seen engineering data, photos and video 
+				of the creation of some of Hollywood's most popular franchises. This talk is not about CGI or computer-generated 
+				animation; instead, the focus will be on real-world technology used on-set in the world of high-end production, 
+				including modern vehicle manipulation, pyrotechnics, set design, costume design and a plethora of critical 
+				off-camera technologies.</p><a name="PamelaThompson" id="PamelaThompson"></a>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			To Get Work, Network: Learn the Art of Networking from a Top Recruiter in Animation and Visual Effects
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Pamela Thompson
+			</presentername>
+			<title>
+				Speaker/Recruiter
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/PamelaThompson.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Pamela Kleibrink Thompson is a popular speaker at colleges, film festivals and entertainment 
+				industry conferences around the world.  Recent speaking engagements include presentations at Ferris Media 
+				Festival in Michigan; Jalloo in New Brunswick, Canada; Cineposium in Boise, Idaho; ADAPT in Montreal; the 
+				MDA Animation Workshop in Singapore; FMX in Stuttgart, Germany; KAFI in Kalamazoo, Michigan; and schools 
+				such as Ringling and Savannah College of Art and Design.  She has presented courses at SIGGRAPH in San 
+				Diego, Boston, and Los Angeles; was a noontime lecturer at Disney Feature Animation; and taught the Career 
+				Realities course at Gnomon School of Visual Effects in Hollywood.</p>
+				<p>Thompson is an internationally-acclaimed recruiter, career coach and animation veteran (production manager 
+				on Emmy Award-winning The Simpsons, ink and paint supervisor on Paramount’s animated feature Bebe’s kids).  
+				She was named one of the Top Ten Recruiters by Animation Magazine.  Recruiting clients include Disney, Fox 
+				Animation, The Embassy VFX, Lucas Animation, and Framestore.</p>
+				<p>Pamela Thompson’s monthly column, The Career Coach, appears at the Animation World Network web site
+				http://mag.awn.com.  She has written articles for over 40 other publications, including  Animation Today,  L
+				os Angeles Times, Entrepreneur, Idaho Women’s Journal and Woman’s Day.<a name="FonDavis" id="FonDavis"></a></p>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			How Computers Did Not Kill Practical Effects
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Fon Davis
+			</presentername>
+			<title>
+				CG Artist, Founder, Fonco Creative Services
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/FonDavis.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>In his two decade career, Fon Davis has worked on over 30 feature films. As an alumnus of the 
+				Industrial Light and Magic Model Shop, Fon has worked on features such as:</p>
+				<ul>
+					<li><i>Star Wars</i></li>
+					<li><i>Pearl Harbor</i></li>
+					<li><i>Starship Troopers</i></li>
+					<li><i>Galaxy Quest</i></li>
+					<li><i>Terminator III</i></li>
+					<li><i>Mission Impossible III</i> </li>
+					<li>and the <i>Matrix</i> series.</li> 
+				</ul>	
+				<p>In addition to his work in visual effects, Fon has also worked in Disney’s art departments as a concept 
+				designer/model maker, and on several stop motion projects including <i>The Nightmare Before Christmas</i> 
+				and <i>Coraline</i>. More recently, Fon was the Miniatures Supervisor on both <i>Big Miracle</i> with 
+				Drew Barrymore, and also on Neill Blomkamp’s recent feature, <i>Elysium</i>. Having started Fonco Creative 
+				Services in 2000, Fon also writes and develops his own projects, frequently using his CG skills alongside 
+				practical model making. With his vast experience, Fon is well-placed to discuss the art and craft of model 
+				making for cinema, from concept design to hybrid practical and cgi effects, with a particular expertise 
+				in knowing where models and miniatures can play a role in today’s digital world.
+				<a name="PatrickBass" id="PatrickBass"></a></p>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Business skills and professional development for IT and INFOSEC Pros
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Patrick Bass
+			</presentername>
+			<title>
+				Director of Security Solutions, Terra Verde Services
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/PatrickBass.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Patrick Bass is the Director of Security Solutions at Terra Verde Services where he leads the 
+				firm’s Managed Security and Professional Service groups. His forthright and direct approach resonates strongly 
+				with a tech savvy generation. For over 16 years, he has led data and physical security organizations as a 
+				motivational and business-minded executive leader.</p>
+				<p>Patrick knows how to address security risk from a technology and business perspective.  He is the former chief 
+				security officer for a major credit card processor and has worked in leadership roles within IBM, Banner Health, 
+				and Element Payment Services to name a few.  He creates enterprise security solutions for organizations with 
+				stringent security requirements and compliance mandates for regulatory standards such as PCI, HIPAA, and SOX.  
+				Patrick has exceptional analytical capability and is able to make calm, rational decisions in the face of multiple 
+				competing priorities, high stress, and emergent situations. He has strong management skills and is able to work 
+				with diverse groups in a highly effective manner.</p>
+				<p>His educational accomplishments include an undergraduate degree in Information Technology Security, an MBA in 
+				management and strategy, and a Master’s degree in Information Assurance and Security.  Currently, he is working on 
+				an applied research doctorate and preparing for a dissertation focused on mobile security. Patrick holds a number 
+				of professional/industry certifications including: CISSP-ISSP/ISSMP, CISA, CEH, CHFI, G2700, CCENT, PCIP, and CGEIT.</p>
+				<a name="BeitsLivneh" id="BeitsLivneh"></a>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Be Your Own Boss? Yeah… Right! 
+		</presentationtitle>	
+		<speaker>
+			<presentername>
+				Beits Livneh
+			</presentername>
+			<title>
+				Owner, Click Computer Services
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/BeitsLivneh.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Back in 1996, Beits was assisting with IT related projects during his 
+				service in the Intelligence Branch, Israel Defense Forces. After his three years of 
+				mandatory service, he was offered a job at a Microsoft college in Israel, where he 
+				worked as a system administrator. In 2000, Beits moved to Arizona, with lots of ambitions 
+				and absolutely no grey hair (yet). Fast forward to 2013, Beits is now married with 6-year-old 
+				triplets, a 4-year-old daughter, three businesses and still lots of entrepreneurial ambitions.</p>
+				<p>The primary business that Beits owns and operates is an IT consulting firm called Click 
+				Computer Services (CCS). CCS struggles with one main challenge in the past nine years, finding 
+				team members who share the same values, work ethics and knowledge that the industry needs so badly.</p>
+				<p>Established in 2004, CCS now employs eight team members, and is one of Arizona’s most reputable 
+				IT consulting firms which focuses on small business technology, Cloud/Hosted service and in-house 
+				IT services.</p><a name="GodricJohnson" id="GodricJohnson"></a>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Jetstreame: An Independent Game Studio
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Godric Johnson
+			</presentername>
+			<title>
+				Producer/Creative Director, Jetstreme
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/GodricJohnson.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Godric Johnson is an American artist, game designer, and musician from Baton Rouge, 
+				LA. He is the TRUE founder of Game-hop (his brand/style and music) and holds a bachelor's degree 
+				in Game Design and Digital Art from University of Advancing Technology.  Having a vibrant passion 
+				for both video games and music, his young career spans from doing game design and concept art for 
+				Artificial Life Inc to performing at GDC, Gam3rcon, DigiFEST South, and various other conferences.  
+				He's an active member of the IGDA chapter in Baton Rouge, and mentors local high school students 
+				interested in the gaming industry.  In his free time he loves to draw, play games, create music, 
+				perform at events, and host fighting game tournaments such as Quarter Circle Forward (QCF).  He now 
+				currently serves as the Producer/Creative Director of the independent game studio Jetstreame.</p>
+				<a name="WayneNeale" id="WayneNeale"></a>
+			]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			UX Rock 'n Roll Style: What Can We Learn About User Experience Design from Music?
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Wayne Neale
+			</presentername>
+			<title>
+				Founder and President, Kydak
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/WayneNeale.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Wayne is currently the founder and President of Kydak, a user experience design company. 
+				Kydak uses user research, design and usability evaluation methods to solve complex problems and 
+				create innovative experiences for digital software products. Prior to Kydak, Wayne held executive 
+				positions at SAP, ShoppingScout, Khimetrics, ITax Group, Kodak and was the co-founder of iZoom.com and 
+				Fairway Productions. Wayne is co-chair of IxDA (Interaction Design Association of Phoenix) and founder 
+				of Phoenix UX.  Wayne was part of a team and only website that was inducted into the Smithsonian 
+				Institution’s National Museum of American History with “24 hours in Cyberspace” in 1996. Vice President 
+				Al Gore unveiled the exhibit on January 23, 1997. Dr. Neale holds a Ph.D. in Human-Computer Interaction 
+				from Virginia Tech, masters in human factors from California State University, Northridge and bachelors 
+				in cognitive psychology from California State University, Long Beach.<a name="BenKoenig" id="BenKoenig">
+				</a></p>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Security Operations: Incident Response
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Ben Koenig
+			</presentername>
+			<title>
+				Sr Security Analyst / Team Lead
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/BenKoenig.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Ben Koenig, CISSP GCIH GCIA, is the Lead incident handler for Charles Schwab & Co., 
+				providing guidance and leadership on the Security Operations Incident Response team. With over 
+				14 years of Information Technology Operations experience, he has covered almost all areas of IT 
+				Operations from alert monitoring to compliance and regulatory remediation. Whether configuring 
+				firewall rules or conducting full incident response investigations, Ben's ability to quickly 
+				identify and react to the given situation has been the cornerstone to many a team’s success. Prior 
+				to working for Charles Schwab &amp; Co., Ben worked as the Lead Security Analyst for GoDaddy in 
+				Scottsdale, Az. It was in that position that Ben learned the art of &quot;Drinking from the fire hose!&quot;, 
+				a skill that serves all incident handlers well. Before joining the GoDaddy team Ben worked for 
+				EarthLink, an ISP based out of Atlanta, GA, with various roles within IT Operations. This is where 
+				Ben initially honed his skills in trouble shooting and analysis.</p>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			You Have an Awesome Idea for an App; How Do You Transform it into a Commercial Product?
+		</presentationtitle>	
+		<speaker>
+			<presentername>
+				Isac Artzi
+			</presentername>
+			<title>
+				Partner, Thumb Magic, LLC
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/IsacArtzi.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Isac has over 20 years of experience in college instruction, adult learning, technology 
+				development, and business entrepreneurship within a wide range of industries, markets, and disciplines. 
+				Isac’s professional career spans military training and instruction, research, teaching, and educational 
+				software development. At Michigan State University Isac directed the BioSci Explorer and Multimedia 
+				Physics multimedia eLearning projects. At Gilat Communications, Ltd. Isac managed satellite-based distance 
+				learning projects in Thailand, Australia, Israel and other countries. Isac was a computer programmer and 
+				technology evangelist in Silicon Valley working with several Internet companies. While at AppStream (acquired 
+				by Symantec) Isac worked on several intellectual property initiatives and was co-inventor on two software 
+				streaming patents. Currently Isac is an Instructional Designer at Grand Canyon University, as well as an 
+				Associate Professor at University of Advancing Technology. Isac is also conducting research in the area of 
+				self-adapting eLearning environments and their business applications. His education includes undergraduate 
+				and doctoral degrees in Computer Science &amp; Mathematics, Instructional Design, and Business.</p>
+				<a name="ArthurVincie" id="ArthurVincie"></a>]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			World Building on a Budget: Techniques for Indie Sci-Fi Filmmakers
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Arthur Vincie
+			</presentername>
+			<title>
+				Producer
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/ArthurVincie.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Arthur has over 10 years of film and television production experience as a line producer, 
+				producer and director. He recently wrote and directed <i>Found In Time</i>, a sci-fi feature, 
+				which won the Best Sci-Fi Feature award at the Shriekfest Film Festival, and is an official selection 
+				at:
+				<ul>
+					<li>the Eerie Horror Fest</li>
+					<li>Tri-Cities International Fantasy Film Festival</li>
+					<li>Boston Science Fiction Festival</li>
+					<li>Nevermore Film Festival</li>
+					<li>International Horror/Sci-Fi Festival</li>
+					<li>Imagine Film Festival of Amsterdam and </li>
+					<li>the GenCon Indy Film Festival</li>
+				</ul>
+				<p>It will be released on DVD, streaming and VOD by Green Apple Entertainment.  
+				Focal Press just published his non-fiction book on preproduction, <i>Preparing For Takeoff: Preproduction 
+				for the Independent Filmmaker</i>.</p>
+				<p><i>Caleb's Door</i>, Arthur's first feature, is available on DVD and VOD through distributor Around 
+				The Scenes.  His short films <i>The Prayer Tree</i>, <i>Matter</i>, <i>Mornir/Mornen</i>, <i>Secret Language</i> have screened at various 
+				festivals and art venues. </p>
+				<p>Arthur has line produced or production managed several feature films, including: 
+				<ul>
+					<li><i>Helena From The Wedding</i></li>
+					<li><i>Goodbye Baby</i></li>
+					<li><i>Windows</i></li>
+				</ul>
+				<p>He has also post supervised: </p>
+				<ul>
+					<li><i>Rock the Paint</i></li>
+					<li><i>The Toe Tactic</i>, directed by acclaimed animator Emily Hubley</li>
+					<li><i>Racing Daylight</i> starring David Strathairn and Melissa Leo</li>
+					<li><i>Company K</i></li>
+					<li><i>The Reawakening</i> directed by Native American Diane Fraher.</li>  
+				</ul>
+				<p>These films have screened at the Tribeca, Slamdance, Nantucket, SXSW, Rome, Woodstock, and other film festivals, 
+				and have gone on to theatrical, DVD and cable distribution.  In addition to features, Arthur has line produced 
+				industrials, music videos, short films, spec commercials and other projects.</p>
+				<p>In 2007, Arthur founded Chaotic Sequence Inc., which focuses on producing shorts and features.  To date the 
+				company has production managed several short films and other projects, as well as <i>Found In Time</i>.</p>
+				<p>Prior to line producing, Arthur worked in just about every department, for ABC, NBC, BBC America, MSNBC, the 
+				Knitting Factory and various independent production companies in the New York City area.</p>
+				<p>Arthur has written articles on budgeting and postproduction for Indie Slate and Student Filmmaker magazines, 
+				and has guest lectured at New York University, the School of Visual Arts, CUNY/Hunter College, Brooklyn College, 
+				and Fairleigh Dickinson University.  He currently teaches film production management at Montclair State University.  
+				He holds a B.F.A. in Film/Television Production from New York University.</p><a name="JacquelineFebvre" id="JacquelineFebvre"></a>
+				]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			New Utopia? How Design can change our world.
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Jacqueline Febvre
+			</presentername>
+			<title>
+				General Director, Epcc ESAD (Ecole Supérieure d'Art et de Design d'Orléans) Orleans Higher School of Art and Design
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/JacquelineFebvre.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[ <p> Postgraduated in History of technology and graduated from ANAT (National Textile Art University), 
+				Jacqueline Febvre is currently the General Director of the Epcc ESAD Orleans Higher School of Art and Design 
+				(300 students, 55 teachers).</p>
+				<p>She previously led from 1991 to 2001, the APCI (Agency for the Promotion of Industrial Creation) in Paris. 
+				In this context, she led an important action program on design exhibitions, conferences and contests, publication 
+				of books and magazines (exhibtion such as “Design, mirror of the century”, guides like France Panorama design, 
+				competitions, creation of Design Observer). She began her career by creating and running a textile company and 
+				was Deputy Director of School of Applied Arts, School of Fontblanche in South of France.</p>
+				<p>She has been teaching History of Design (ISD Valenciennes, EDNA Nantes), is a speaker, and is an author of 
+				numerous guides and articles on design project. She designed several important exhibitions like &quot;Changing Era&quot;
+				(Museum of Science and Industry, Paris, October 2006&ndash;August 2007) of which she was co-curator with Thierry 
+				Kazazian. She has conducted various research techniques History of the changing role of the designer between 1939 
+				and 2000.<a name="JordanWomack" id="JordanWomack"></a></p>
+			]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Implanting the Swarm in a Live Host: Mechanics for Shipping a Global Game Expansion
+		</presentationtitle>	
+		<speaker>
+			<presentername>
+				Jordan Womack
+			</presentername>
+			<title>
+				Game Producer, Blizzard Entertainment
+			</title>
+			<image>
+				<![CDATA[ <img src="Images/Speakers/JordanWomack.jpg" /> ]]>
+			</image>
+			<bio>
+				<![CDATA[<p>Jordan Womack is a Game Producer at Blizzard Entertainment. He has been with Blizzard for 
+				five years, shipping games as a QA lead and as a Producer; he has credits on <i>World of WarCraft: Wrath 
+				of the Lich King</i>, <i>StarCraft II: Wings of Liberty</i>, and <i>StarCraft II: Heart of the Swarm</i>. 
+				Before Blizzard, Jordan spent seven years as a project manager in corporate facilities and construction. 
+				He switched industries to follow his lifelong passion for gaming, determined to work with the smartest 
+				people on the biggest projects. Game development at Blizzard is exactly that.</p>
+				<p>These days Jordan mainly produces engineering teams on <i>StarCraft II: Legacy of the Void</i> and on 
+				Blizzard's upcoming action-RTS title, as well as supporting feature releases for the live <i>StarCraft II</i> 
+				service. His scope includes:</p>
+				<ul>
+					<li>online game and social systems</li>
+					<li>core game engine</li>
+					<li>technical art and tools pipeline</li>
+					<li>graphics engine</li>
+					<li>and user interface</li>
+				</ul>	
+				<p>Jordan’s job as a producer is to turn goals into project plans and help teams execute them throughout design, 
+				implementation and release. </p>
+				<p>Jordan’s talk is about the details and the major challenges Blizzard faced and their specific logistical 
+				and technical solutions for globally sim-shipping <i>Heart of the Swarm</i> to a live game service.</p>
+				<a name="AnastasiosMaragiannis" id="AnastasiosMaragiannis"></a>
+				]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			Design Futures: Technology in an Age of Uncertainty
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Anastasios Maragiannis
+			</presentername>
+			<title>
+				Academic Portfolio Leader, University of Greenwich 
+			</title>
+			<image>
+				<![CDATA[<img src="Images/Speakers/AnastasiosMaragiannis.jpg" />]]>
+			</image>
+			<bio>
+				<![CDATA[
+				<p>Anastasios Maragiannis is the Academic Portfolio Leader in the Design Futures Department, School of 
+				Architecture, Design and Construction, University of Greenwich, London, UK. He is a conceptual thinker 
+				and design practitioner. Informed by design theory, his practice-based research focuses on how 
+				computational technologies impact on the existing principles and forms of static typography and text. 
+				His current work explores how innovative processes of design evolve within creative media, scrutinising 
+				in particular how forms of typographic design expand into innovative technologies, virtual space and 
+				interactive, sonic and animated components.</p>
+				<p>Anastasios has presented his research and practice-based work in various international conferences and 
+				in numerous places including the British Film Institute and the V&amp;A museum. He is member of the Digital 
+				Research In Humanities and the Arts (DRHA) International conference standing committee; board member of 
+				The Thursday Club, Goldsmiths, University of London and he has been awarded with the &quot;University of Greenwich
+				Recognition Award&quot; as the &quot;Staff Member of the Year&quot;.</p><a name="RickRavenell" id="RickRavenell"></a>
+				]]>
+			</bio>
+		</speaker>
+	</presentations>
+	<presentations>
+		<presentationtitle>
+			UAT Alumni Panel: Life on the Outside
+		</presentationtitle>
+		<speaker>
+			<presentername>
+				Rick Ravenell
+			</presentername>
+			<title>
+				Freelance Artist
+			</title>
+			<image>
+				
+			</image>
+			<bio>
+				<![CDATA[<p>Rick’s visual effects career started in 2008 at MKVFX where he was a compositor and 
+				motion graphics artist on NBC’s Knight Rider.  Rick then went to Prime Focus for graphics work on 
+				Avatar and he has been a freelance artist ever since. He has worked in television, commercials and 
+				feature film for companies such as:</p>
+				<ul>
+					<li>Digital Domain</li>
+					<li>FuseFX</li>
+					<li>Sabertooth Interactive</li>
+					<li>Technicolor</li>
+					<li>Zoic</li>
+					<li>Encore Hollywood</li>
+					<li>and most recently Svengali Fx.</li>
+				</ul>
+			]]>
+			</bio>
+		</speaker>
+	</presentations>
+</presenters>

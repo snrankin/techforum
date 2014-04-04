@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<pastspeakers>
+	<speaker name="Dr.Matt Kim">
+		<title>
+			Founder and President of QuantTera (2005 to present, Scottsdale, AZ)
+		</title>
+		<bio> 
+			<![CDATA[
+			<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Kim_tech_forum_2012_16138.jpg"> 
+				Dr. Matt Kim is the Founder and President of QuantTera (2005 to present, Scottsdale, AZ), a microelectronics research and development company that specializes in nano-engineered devices for photonic telecommunications and energy applications. He is responsible for the development of novel processes and device structures for improvements in photonics device performance and for the design and manufacture of integrated photonic components and subsystems for communications and energy applications. He specializes in the physics of low dimensional quantum based device structures. He is an expert in the crystal growth of GaAs and InP based technology for photonic application and the microelectronic fabrication and testing of semiconductor devices. Through his career he has set-up many research and development labs through manufacturing facilities. 
+			</p>
+			<p>
+				He received his Ph.D. in Physics from the University of Illinois at Urbana-Champaign, Illinois, and has a B.S. in engineering physics from Cornell University in Ithaca, New York. He is member of the American Physical Society and the Institute of Electrical and Electronics Engineers (IEEE).
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Brad Westfall">
+		<title>
+			Senior PHP Web Developer at Vianet Management, Inc
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Brad_Tech_Forum_16091.jpg">
+				Brad Westfall is the Senior PHP Web Developer at Vianet Management, Inc in Scottsdale, AZ. Brad has over 13 years experience in Web Design and Development. Brad's past work includes being the founder and President of AZPixels.com, LLC.
+				</p>
+				<p>
+				Brad's professional experience includes building and maintaining high visibility LAMP projects, conducting search engine optimization and business branding. Brad has worked with over 200 clients including: ASU, The Department of Education (Arizona), AlphaGraphics, and Vianet Management. Owner of Roommates.com and PuppyFind.com. Brad's technical knowledge includes PHP, MySQL, browser compatible HTML and CSS, User Interface, User Experience and JavaScript.
+				</p>
+				<p>
+				Brad received his Bachelors of Science in Computer Information Systems Degree at ASU's W.P. Carey School of Business. In his free time, Brad participates and mentors in several Web Developer and User Experience Groups in the Phoenix area. Brad has a passion for learning and strives to bridge the gap between engineering and designer roles.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Vincent Liu">
+		<title>
+			Managing Partner at Stach and Liu
+		</title>
+		<bio>
+			<![CDATA[ 
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Vicent_Liu_16077.jpg">
+				Vincent Liu, CISSP, is a Managing Partner at Stach & Liu, a security consulting firm providing IT security services to the Fortune 1000 and global financial institutions as well as U.S. and foreign governments.
+				</p>
+				<p>
+				Before founding Stach & Liu, Vincent led the Attack & Penetration and Reverse Engineering teams for the Global Security unit at Honeywell International. Prior to that, he was a consultant with the Ernst & Young Advanced Security Centers and an analyst at the National Security Agency. In these roles, he gained extensive experience conducting risk assessments, analyzing source code, and performing penetration testing.
+				</p>
+				<p>
+				Vincent is a sought after speaker and has presented his research at conferences including Black Hat, ToorCon, InfoSec World, SANS, and Microsoft BlueHat. Vincent has been published in interviews, journals, and books with highlights including:</p> 
+				<ul>
+					<li>Penetration Tester's Open Source Toolkit</li>
+					<li>Writing Security Tools and Exploits</li> 
+					<li>Sockets, Shellcode, Porting, and Coding</li>
+					<li>Hacking Exposed Wireless 1st and 2nd Edition</li>
+					<li>Hacking Exposed Web Applications 3rd Edition</li>
+				</ul>
+				<p>    
+				He led the technical editing of the critically-acclaimed Ajax Security, and is most recently the co-author of Web Application Security A Beginner's Guide.
+				</p>
+				<p>
+				Vincent holds a Bachelor of Science and Engineering from the University of Pennsylvania with a major in Computer Science and Engineering and a minor in Psychology.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Delirium">
+		<title>
+		Game Developer Group
+		</title>
+		<bio>
+			<![CDATA[ 
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Delirium_logo_3_16087.jpg">
+				This group was sponsored to be a part of the Game Developers Conference in San Fransisco based on their work for the game "Delirium". The group will be sharing their experiences while making the game, obstacles and their personal takeaways from being a part of GDC.
+				</p>
+				<p>
+				"You are your own worst enemy in Delirium, a psychological horror game and 2d platform puzzler!  A divided mind has turned on itself, in a twisted, bitter attempt to quell the darkness of a sinister past.  You are the last sane piece of a broken man, and must avoid and outwit your inner demons through a wicked series of puzzles, challenges, and hidden nightmares. The confrontation approaches can you pry yourself from dementia or will the vestiges of fear and regret cripple you forever?"
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Tamir Nadav">
+		<title>
+		Senior Producer at Playdom
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Nadav_Tech_forum_2012_16122.jpg">
+				Tamir Nadav is a game designer, former programmer, and a valedictorian baccalaureate graduate of Full Sail in 2005. He has been involved in the industry for over 8 years with his enthusiastic networking abilities, and can be seen at many different events and schools, assisting current students in preparing to enter the industry. 
+				</p>
+				<p>
+				Aside from his duties as a designer, Tamir has been consistently speaking at conventions and universities on business communications, how to meet people, and how to get a job in the game industry. He has quickly become a known name and face in this industry, and built a vast network of industry peers, both young and old. 
+				</p>
+				<p>
+				He has been interviewed by EGM, IGN, and was featured in the popular how-to book published by Prima Games, Paid to Play: An Insider's Guide to Video Game Careers. Tamir has spent 6 years in the MMO space, and currently is working on social games at Playdom, in Palo Alto, CA.
+				</p> 
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Nathan J. Wagner">
+		<title>
+			VP of Business Development at ArmedZilla, Inc.
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/Nathan_tech_forum_2012_16126.jpg">
+				A native of Arizona, Nathan's career in technology began when he moved to Seattle, WA and took a position in global product logistics at Microsoft in 1994. He was part of a small team that managed the launch of Windows 95, the first Office Suite and Encarta around the world. 
+				</p>
+				<p>
+				Over the course of his career, Nathan parlayed his experience to work at some of the most dynamic interactive marketing agencies on the west coast, and he has conceptualized and executed scalable web and social media marketing campaigns with these notable clients:
+				</p>
+				<ul>
+					<li>Microsoft</li>
+					<li>Intel</li>
+					<li>Ubisoft</li>
+					<li>T-Mobile</li>
+					<li>Nike</li>
+					<li>Adidas</li>
+					<li>Quiznos</li>
+					<li>Alaska Airlines</li>
+					<li>Hawaiian Airlines</li>
+					<li>Outrigger Hotels</li>
+					<li>Norwegian Cruise Lines</li>
+					<li>Starbucks</li>
+					<li>Kroger</li>
+					<li>and Costco</li>
+				</ul>     
+				<p>
+				Nathan holds a BS in Marketing from the University of Phoenix and is a Navy veteran of Operation Desert Storm (1988 to 1992). Nathan is currently the VP of Business Development at ArmedZilla, a technology startup that connects veterans on a social platform headquartered in Scottsdale, AZ.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Pat McCormack">
+		<title>
+			Visualization Manager with Raytheon Missile Systems
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+				<img src="http://www.uat.edu/webmedia/jpg/pat_tech_forum_2012_16130.jpg">
+				Pat McCormack is a Visualization Manager with Raytheon Missile Systems in Tucson, AZ.  After serving 21 years in the United States Army, he retired from military service in 2007 and joined the Raytheon team as a Systems Engineer and military assessment analyst. Providing operationally relevant subject matter expertise in the development of modeling, simulation and analysis scenarios for analytical war games, he applied his experience as a combat veteran to developing virtual training capabilities for customers. Pat became the manager of the CONOPS Visualization group and Virtual Development Team within Raytheon Missile Systems in 2010, and oversees a visualization group that creates high quality cinematic videos, world class conceptual illustrations, and interactive and immersive gaming environments for use across Raytheon. 
+				</p> 
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Luke Stewart">
+		<title>
+			Visual Effects artist
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+					<img src="http://www.uat.edu/webmedia/jpg/luke_tech_forum_2012_16134.jpg">
+					Luke is a seasoned Visual Effects artist who graduated from the University of Advancing Technology in Tempe, Arizona. He has been working in the 3D animation and visual effects industry for over 10 years. Currently employed as a Production Manager at Raytheon Missile Systems in Tucson, AZ, Stewart supervises all aspects of animation production, from script development and storyboarding, to delivering the final edit to the client. Stewart also writes, directs and produces films. He is in post production on his first feature film, Holodad. 
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Steven-Elliot Altman">
+		<title>
+			CEO of Dark Hermit Studios
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+					<img src="http://www.uat.edu/webmedia/jpg/Steven_Elliot_2_15694.jpg">
+					Steven-Elliot Altman is a bestselling author, award-winning advertising executive, Hollywood writer-producer, and most recently a successful videogame developer, having served as The Game Director at Acclaim Games, and having won multiple awards for his massively multiplayer online role playing game 9Dragons. Steven was also recently elected as the Vice-Chairman of the steering committee of the Writer's Guild of America's Video Game Division, and served as a Finalist Judge for the 2009 and 2010 WGA Video Game Awards. He is currently the CEO of Dark Hermit Studios. 
+				</p>
+				<p>
+					Steven joined Acclaim Games in 2005 during its inception by former Activision co-Founder and Chairman Howard Marks, initially as the writer for what would become their highest grossing title, 9Dragons. Marks later hired Steven on as Acclaim's Game Director/Director of Marketing and gave him full directorial control of Acclaim's entire download division. During Steven's tenure at Acclaim he also served in the direct capacity of active Game Director for Acclaim's two highest grossing games, 9Dragons and 2Moons, wrote Facebook social games including Mafia Payoff, and oversaw the hiring, training and content of all writers on all games, while managing staff in multiple global offices. In May 2010, Acclaim was purchased by Playdom, the fourth largest Social Game company. Steven declined an offer to join Playdom on the cusp of their sale to Disney, choosing instead to co-found Dark Hermit Studios. 
+				</p>
+				<p>
+					Steven's novels include:
+				</p>
+				<ul>
+					<li>Captain America is Dead</li>
+					<li>Zen in the Art of Slaying Vampires</li>
+					<li>Batman: Fear Itself</li>
+					<li>Batman: Infinite Mirror</li>
+					<li>The Killswitch Review</li>
+					<li>The Irregulars and Deprivers</li>
+				</ul>        
+				<p>
+					He's also the editor of the critically-acclaimed anthology The Touch and a contributor to Shadows Over Baker Street, a Hugo Award Winning anthology of Sherlock Holmes Stories. Steve's also a WGA writer currently attached as Screenwriter / Executive Producer to the feature film of his novel Zen in the Art of Slaying Vampires with director Russell Mulcahy (Highlander / Resident Evil) and three TV series in development, DEPRIVERS with director Andy Wolk (Sopranos / The Practice) for Sony;  CONTROLLERS with director Craig Baxley (Stephen King's Rose Red and Kingdom Hospital), and THE IRREGULARS (Dark Horse Prods.).
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Glenn Allan Campbell">
+		<title>
+			Visual Effects Supervisor for AREA 51
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Glenn_Campbell_15706.jpg">
+                        Glenn started his effects career by nearly blowing his face off with homemade fireworks at age 15 and has never looked back. 
+                        Much of his misspent youth was dedicated to building models and blowing them up in front of a super 8 camera. In 1978 he 
+                        managed to somehow enter the Cameraman Training Program - Effects Branch, which placed him as a trainee on such productions as:
+                </p>
+                <br/>
+                <br/>
+                <ul>
+                    <li>The Wiz</li>
+                    <li>Superman</li>
+                    <li>Buck Rogers</li>
+                    <li>Battlestar Galactica</li>
+                    <li>Close Encounters of the Third Kind</li> 
+                    <li>and Star Trek: The Motion Picture. </li>
+                </ul>
+                <p>After graduating, he continued on the Star Trek feature and subsequently fell in with a bad crowd, working on films of ill repute like:</p>
+                <ul>
+                    <li>Blade Runner</li>
+                    <li>Tron</li>
+                    <li>Buckaroo Banzai</li>
+                    <li>Gremlins</li>
+                    <li>Spaceballs</li>
+                    <li>Lifeforce</li>
+                    <li>Bill and Ted</li>
+                    <li>and City Slickers</li>
+                </ul>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Micah Wright">
+		<title>
+			Writer
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Michas_new_picture_15702.jpg">
+					Micah Wright is a writer in television, movies, video games, comics and animation. His work on the Nickelodeon show The Angry Beavers was nominated for an Annie Award and Daytime Emmy. He has written over 30 videogames, and serves as the Chairman of the Writers Guild of America's Videogame Writers Caucus. His books on political writing and modern propaganda imagery have been featured in the New York Times and on the Fox News Channel. 
+                </p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Michael Powell">
+		<title>
+			Principal Lecturer, Game Art at De Montfort University
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Michael_Powell_bio_picture_15709.jpg">
+					Michael Powell is a Principal Lecturer and Course Leader for Game Art BA Hons at De Montfort University, Leicester, England's first Games Industry accredited course. He is a National Teacher Fellow, and has been teaching, writing and presenting on games for many years. He was a contributor to the Livingstone-Hope Review panel, advising the UK Government on the future policy for Game Development and Game Education 
+                </p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Schuyler Towne">
+		<title>
+			Mechanical Security Researcher
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/schuylerTowneTechForum2010150x200_14860.jpg">
+                    Tech Forum presenter Schuyler Towne is a competitive lockpicker and a cultivator of the locksport community. He is a two-time winner of the DEFCON LockCon contest and beat the second-ranked lockpicker in the world at LockCon's Dutch Open tournament in 2008. Schuyler is the creator and executive editor of Non-Destructive Entry magazine. 
+                </p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Jeremy Duffy">
+		<title>
+			Specialist in information risk management
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+					<img src="http://www.uat.edu/webmedia/jpg/jeremyDuffy150x200_15061.jpg">
+					Jeremy is a "geek" and is similar to most other geeks you've met or heard of. With over 19 years of computer experience ranging from programming to secure system design, he's well equipped to understand the benefits, but also the risks that come from "cyber" technology.
+				</p>
+				<p>
+					But unlike the rest of his people, Jeremy is an accomplished and award-winning public speaker. Having spent years teaching and training technology and risk management to government agencies, contractors, and the military, Jeremyhas perfected his ability to explain complicated concepts in simple ways to audiences of all skill levels and backgrounds.
+				</p>
+				<p>	
+					As a specialist in information risk management, Jeremy will explain how identity theft was caused by poor data handling practices and how properly applied privacy and data control will end the identity theft problem. Attendees can be expected to learn a little about the problem and a whole lot about the solutions that will make them many orders of magnitude less likely to become victims.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="James Grant">
+		<title>
+			Designer and Programmer
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/James_Grant_internal_15713.jpg">
+                    James Grant is a designer/programmer, focused on data visualization projects that help normal people understand the complex systems of the world. He studied Digital Art and Design at UAT, graduating in 2009. He recently completed a year residency at Fabrica, a media research lab in northern Italy, where he worked in the interactive department. 
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Mark McComb">
+		<title>
+			Academic Program Sales Engineer, Microchip
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Marc_Mccomb_15712.jpg">
+                    As Microchip's Academic Program Sales Engineer, Marc McComb is responsible for assisting academics with integrating Microchip's products and technologies into their curricula. Previously, Marc worked in Microchip's 8-bit MCU Division as an applications engineer. 
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Andres Mora">
+		<title>
+			Extreme Environments Robotics and Instrumentation Laboratory, Arizona State University
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/andres_mora_15720.jpg">
+                    Andres Mora was born in San Jose, Costa Rica. Andres received his B.S. degree in Electronics Engineering in 2001 and following his graduation, he participated in an international internship in the ASPL (Advanced Space Propulsion Laboratory) Johnson Space Center, NASA. At ASPL, he worked in the automatic control of Langmuir probes, which take measurements of density, temperature and force of the flow of plasma within the VASIMR (Variable Specific Impulse Magnetoplasma Rocket). In 2003 he moved to Japan sponsored by the Japanese Ministry of Education, Culture, Sports, Science and Technology, and in 2005, he obtained his M.Sc. degree in Aerospace Engineering (Space Robotics). His research focused on the development of a rescue and search team of robots remotely controlled through the use of the Japanese ETS-VIII satellite.
+				</p>
+                <p>	
+					In 2007, he attended the International Space University's Space Studies Program (SSP 2007) in Beijing, China, and later he participated in an international internship at NASA Jet Propulsion Laboratory (JPL). At JPL he worked in the design, development and implementation of a remote monitoring system of volcanoes which measured temperature, humidity and sulfur dioxide emissions. Upon finishing his Ph.D. in Space Robotics in 2009, Andres worked as a researcher at ATR (Advanced Telecommunications Research Institute International) in Kyoto, Japan. At ATR he carried out research on the field of mobile robots, particularly in the simultaneous control and monitoring of multiple mobile robots and GUI (graphical user interface) design.
+				</p>
+                <p>
+					Currently, he is a post-doctoral researcher at ASU (Arizona State University) where he works on the design and implementation of robots and instruments for extreme environments, such as hot springs, volcanoes and sub-glacial lakes. His research interests include path planning, teleoperation and mobile robot control and design of GUIs that allow control of robots in various tasks, ranging from social to mobile robots for space exploration. Andres also enjoys playing the saxophone, soccer and scuba diving. 
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Nate LaMartina">
+		<title>
+			Lead Character Artist, Bioware
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Nate_Lamartina_15721.jpg">
+                    Nate LaMartina is the lead character artist at Bioware, a division of Electronic Arts, and currently involved in the Dragon Age series at the Edmonton studio. He has been working in the game industry since 2005, and was part of multiple modification projects previous to his professional development, including COR Project. Nate has worked on a number of software titles, including Dark Age of Camelot, Warhammer Online, and Dragon Age II. 
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Darin Travis">
+		<title>
+			Mobility Strategist, Microsoft
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Darin_Travis_15723.jpg">
+                    Darin Travis is the Microsoft Mobility Strategist for Latin America and Canada, working with enterprise customers to develop solutions that allow their employees and customers to be mobile. He proudly served 11 years in the United States Air Force and since leaving the military has worked for major IT consulting firms before coming to Microsoft. Since at Microsoft, he has worked as consultant and strategies for large customers such as the U.S. Army, the Canadian government and other large commercial companies in the U.S. and Canada.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="David Shorey">
+		<title>
+			Visual Effects Artist
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/David_Shorey_15724.jpg">
+                    Since graduating from UAT in 2003 and moving to California, David Shorey has been involved in the movie and television industry.  He has also taught classes at Montecito Fine Arts School in Arcadia, California. He has worked on over 50 Disney movie trailers, a number of movies, including the 007 movie Quantum of Solace and Bobby, and in the exciting and challenging new field of 3D conversion with The Last Airbender, The Green Hornet and Jackass 3D. He is currently doing work on a television show, Supah Ninjas, on Nickelodeon, and the movie Fred 2: Night of the Living Fred.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="TyRuben Ellingson">
+		<title>
+			Concept Designer, Visual Consultant
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+					<img src="http://www.uat.edu/webmedia/jpg/Tyruben_Ellingson_15725.jpg">
+					TyRuben was the Lead Vehicle Designer for James Cameron's Avatar. He joined the team at Lightstorm in early 2006 and provided 
+					the designs for the AMP suit and RDA combat aircraft. As the show moved into post-production, TyRuben designed the RDA mining 
+					equipment and RDA ground vehicles, several of which were also used in the Avatar video game. The son of a Minnesota art 
+					professor, TyRuben spent his childhood in his father's studio drawing and painting. While completing his master's degree at St. 
+					Cloud State University, Ellingson taught drawing and design courses at the university and exhibited his paintings in regional 
+					and national juried shows. His Master of Fine Arts degree was completed in 1987 at Southern Methodist University. Combining his 
+					fine art successes with a lifelong interest in film, Ellingson landed a position at George Lucas' Industrial, Light and Magic 
+					in 1989 as a Visual Effects Art Director. While at ILM, Ellingson contributed to the creation of ground-breaking special effects 
+					in films such as Jurassic Park, Star Wars: A New Hope and Disclosure. In 1995, Ellingson accepted an invitation by director 
+					Guillermo del Toro to act as principal designer of the signature creature for his film, Mimic. Since this initial collaboration, 
+					TyRuben has provided designs for subsequent del Toro pictures, including Blade II, Hellboy and Hellboy II, and most recently 
+					Pacific Rim, scheduled for release in 2013. Other films to which he has lent his talents include Blade: Trinity, Signs, The 
+					Surrogates, Priest, Battle: Los Angeles, and director Neill Blomkamp's next picture, Elysium. Throughout his career, Ellingson has 
+					spoken regularly to students and professionals regarding his work and the film industry at large.  In 1993, he was a keynote 
+					speaker at the National Association of Art Department Deans, and that same year taught a semester in the cinema department at 
+					San Francisco State University.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Jeremy Leung">
+		<title>
+			Information Security Engineer, Wells Fargo
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Jeremy_Leung_15728.jpg">UAT alum Jeremy Leung is the champion, co-founder and current co-director of hackerspace HeatSync Labs, a non-profit community lab and workshop in Arizona. He ensures that the completely community-funded company sticks with their mission statement of providing tools, space, and expertise for the local community. He manages and leads a team of passionate industry professionals to provide an environment that fosters creativity and direction for the next generation of inventors. Originally from Germany, Jeremy fell in love with the American hacker community and is driven to promote the positive connotations of the word "hacker." After graduating from UAT and joining the work force, he still wanted to make a mad scientists lab with his friends. During the day he works as a security engineer at Wells Fargo; at night, he dons the appropriate safety gear to create and push HeatSync Labs forward.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+	<speaker name="Francis Brown">
+		<title>
+			Managing Partner; Stach and Liu
+		</title>
+		<bio>
+			<![CDATA[
+				<p>
+                    <img src="http://www.uat.edu/webmedia/jpg/Francis_Brown_15722.jpg">
+                    Last year's Lord of the Bing presentation stabbed Google Hacking in the heart with a syringe full of adrenaline and injected life back into a dying art form. New attack tools and modern defensive techniques redefined the way people thought about Google Hacking. Among these were the first ever Bing Hacking tool and the Google/Bing Hacking Alert RSS feeds, which have grown to become the world's single largest repository of live vulnerabilities on the web. And it was only the beginning!
+				</p>
+                <p>
+					This year, we once again tear down the basic assumptions about what Google/Bing Hacking is and the extent to which it can be exploited to target organizations and even governments. In our secret underground laboratory, we've been busy creating an entirely new arsenal of Diggity Hacking tools.
+				</p>
+				<p>
+                    Francis Brown, CISA, CISSP, MCSE, is a Managing Partner at Stach & Liu, a security consulting firm providing IT security services to the Fortune 500 and global financial institutions as well as U.S. and foreign governments. Before joining Stach & Liu, Francis served as an IT Security Specialist with the Global Risk Assessment team of Honeywell International where he performed network and application penetration testing, product security evaluations, incident response, and risk assessments of critical infrastructure. Prior to that, Francis was a consultant with the Ernst & Young Advanced Security Centers and conducted network, application, wireless and remote access penetration tests for Fortune 500 clients. Francis has presented his research at leading conferences such as Black Hat USA, DEFCON, InfoSec World, ToorCon and HackCon, and has been cited in numerous industry and academic publications. Francis holds a Bachelor of Science and Engineering from the University of Pennsylvania with a major in Computer Science and Engineering and a minor in Psychology. While at Penn, Francis taught operating system implementation, C programming, and participated in DARPA-funded research into advanced intrusion prevention system techniques.
+				</p>
+			]]>
+		</bio>
+	</speaker>
+</pastspeakers>

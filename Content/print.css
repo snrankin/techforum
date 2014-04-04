@@ -1,0 +1,53 @@
+﻿body, p, li{
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 150%;
+	color: black;
+}
+.noprint {
+	display: none;
+}
+.seven {
+	width: 100%;
+}
+#main {
+	border-top: solid 2px #FBCA2F;
+	padding: 20px 0 0px;
+	height: auto;
+}
+.Accordion {
+	display: block;
+	page-break-after:always !important;
+}
+.AccordionPanelTab
+{
+	background: none;
+	height: 100%; 
+	min-height: 40px;
+	background-color: none;
+	padding: 0;
+	margin-top: 20px;
+	font-weight: bold;
+	text-transform: initial;
+	color: #000;
+	line-height: 125%;
+	font-size: 18px !important;
+}
+.subtitle{
+	text-transform: none;
+	font-style:italic;
+	font-size: 16px !important;
+	font-weight: normal;	
+}
+.AccordionPanelContent {
+	display: inline-block !important;
+	font-family: Arial !important;
+	font-size: 16px !important;
+	line-height: 150%;
+	color: black !important;
+	border: none;
+}
+.AccordionContent {
+	display: inline-block;
+	padding: 0;
+}

@@ -1,0 +1,98 @@
+﻿<%@ Master Language="VB" %>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head id="Head1" runat="server">
+		<meta charset="utf-8" />
+		<title><%:Page.Title%> | UAT TechForum</title>
+		<script src="Scripts/jquery-2.0.3.min.js"></script>
+		<script src="Scripts/scripts.js"></script>
+		<link href="Content/style.css" rel="stylesheet" />
+		<link rel="stylesheet" href="Content/print.css" type="text/css" media="print" />
+		<link id="Link1" runat="server" rel="shortcut icon" href="Images/favicon.ico" type="image/x-icon"/>
+		<link id="Link2" runat="server" rel="icon" href="Images/favicon.ico" type="image/ico"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if !IE 7]>
+			<style type="text/css">
+				#wrap {display:table;height:100%}
+			</style>
+		<![endif]-->
+		<asp:ContentPlaceHolder runat="server" ID="head" />
+	</head>
+	<body>
+		<form id="Form1" runat="server">
+			<div id="wrapper" role="presentation">
+				<header class="clearfix" role="banner">
+					<section id="banner" class="row clearfix">
+						<div id="logo" class="col two" role="img">
+							<a href="Default.aspx"><img src="images/UATLogo_80x80.png" style="border: none;"></a>
+						</div>
+						<div id="title" class="col eight" role="heading">
+							Tech forum
+						</div>
+					</section>
+					<section class="row tagline noprint clearfix" role="rowgroup">
+						<div class="one-third">
+							Learn
+						</div>
+						<div class="one-third">
+							Experience
+						</div>
+						<div class="one-third">
+							Innovate
+						</div>
+					</section>
+				</header>
+				<div class="row clearfix">
+					<div class="col three clearfix noprint">        
+						<nav id="menu" role="navigation">
+							<div class="navheader slide-trigger">Menu</div>
+							<div class="navigation">
+								<div class="group">
+									<a href="Default.aspx">The Experience</a>
+									<a href="Schedule.aspx">Schedule</a>
+									<a href="Speakers.aspx">Speakers</a>
+									<a href="PastSessions.aspx">Past Sessions</a>
+									<a href="CareerFair.aspx">Career Fair</a>
+									<!--<li><a href="Register.aspx">Register Today</a></li>-->
+								</div>
+							</div>
+						</nav>
+						<aside role="complementary">
+							<section id="live">
+								<h2>Watch Live</h2>
+								<p>Can't attend Tech Forum? No problem! Watch the live stream here</p>
+							</section>
+							<section id="about">
+								<h2>About UAT</h2>
+								<p>The University of Advancing Technology (UAT) is the technophile's college experience &mdash; a community uniquely suited to provide students passionate about technology an ideal place to live and grow.</p>
+								<p>To learn more about UAT, visit us at www.uat.edu</p>
+							</section>
+							<section id="contact">
+								<h2>Contact UAT</h2>
+								<p>Location: 2625 W. Baseline Rd., Tempe, AZ 85283</p>
+								<p>Phone: 800-658-5744</p>
+							</section>
+						</aside>
+					</div>
+					<div class="col spacer clearfix" role="presentation">&nbsp;</div>
+					<div class="col seven clearfix" role="main">
+						<div id="main" class="clearfix">
+							<asp:ContentPlaceHolder runat="server" ID="ContentPlaceHolder1" />
+						</div>
+					</div>
+				</div>
+				<footer class="row noprint" role="complementary">
+					<ul>
+						<li>2625 W. Baseline Rd., Tempe, AZ 85283</li> 
+						<li>P: 800-658-5744</li> 
+						<li>E: <a href="mailto:webmaster@uat.edu">webmaster@uat.edu</a></li> 
+						<li><a href="http://www.uat.edu" target="_blank">www.<strong>uat</strong>.edu</a></li> 
+						<li>&copy; <%: DateTime.Now.Year %> UAT. All rights reserved.</li>
+					</ul>
+				</footer>
+			</div>
+		</form>
+	</body>
+</html>
+

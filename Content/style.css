@@ -1,0 +1,1089 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*================================================ General Styles =========================================================*/
+
+html, body{
+	background: url(../images/header-bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	font-size: 16px;
+	font-family: "Trade Gothic LT Std Light", Arial, sans-serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	-webkit-text-size-adjust: none;
+}
+iframe, object, embed{max-width: 100%; float: left; }
+form {
+	height: 100%;
+}
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
+p{
+	font-family: "Trade Gothic LT Std Light", Arial, sans-serif;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	margin-bottom: 1em;
+}
+ul{
+	list-style:square;
+}
+li {
+	font-family: "Trade Gothic LT Std Light", Arial, sans-serif;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	margin-left: 1em;
+}
+h1{
+	font-size: 2rem;
+	text-transform: uppercase;
+	color: #D1363A;
+	letter-spacing: 0.1em;
+	margin-bottom: .5em;
+	font-weight: normal;
+	margin-top: 0;
+	display: block;
+}
+h2{
+	font-size: 1.75rem;
+	color: #2E2E2E;
+	margin-bottom: .5em;
+	font-weight: normal;
+	margin-top: 0;
+	display: block;
+}
+h3{
+	font-size: 1.5rem;
+	color: #D1363A;
+	margin-bottom: .5em;
+	font-weight: normal;
+	margin-top: 0;
+	display: block;
+}
+h4{
+	font-size: 1.25rem;
+	color: #2E2E2E;
+	margin-bottom: .5em;
+	font-weight: normal;
+	margin-top: 0;
+}
+a, a:link, a:active{
+color: #D1363A;
+font-weight:bold;
+text-decoration:none;
+}
+a:visited {
+	font-weight: normal;
+}
+a:hover {
+	text-decoration: underline;
+}
+.secondary {
+	margin-bottom: 20px;
+}
+.tagline{
+	background-color: #FBCA2F !important;	
+	text-align: center;
+	font-size: 2.5rem;
+	text-transform: uppercase;
+	color: #D1363A;
+	letter-spacing: 0.1em;
+}
+/*--------------------------------------- Forms --------------------------------------*/
+label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+.input50 {
+	display: block;
+	width: 48%;
+}
+.input100 {
+	display: block;
+	width: 98%;
+	padding: 5px 0 5px 2%;
+}
+input[type='text'],
+input[type='email'],
+input[type='tel'],
+textarea{
+	border: solid 1px #D1363A;
+	margin-bottom: 5px;
+	padding: 3px;
+}
+input[type='submit']{
+	float: right;
+	margin: 10px 0px 10px 5px;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight:bold;
+	padding: 5px 0px;
+	text-align:center;
+	width: 75px;
+	background-color: #D1363A;
+	cursor:pointer;
+}
+input[type='reset'] {
+	float: right;
+	margin: 10px 0px 10px 5px;
+	text-transform: uppercase;
+	color: #D1363A;
+	font-weight: bold;
+	padding: 5px 0px;
+	text-align: center;
+	width: 75px;
+	background-color: #FBCA2F;
+}
+input[type='checkbox'],
+input[type='radio'] {
+	margin-right: 10px;
+}
+.formsection {
+	display: block;
+	border-bottom: solid 1px #CCC;
+	width: 100%;
+	float: left;
+	padding: 20px 0;
+}
+
+/*=================================================== Structure ========================================================*/
+
+#wrapper{
+	max-width: 60em;
+	margin: 0 auto;
+	background-color: #FFF;	
+	z-index: 1;
+	min-height: 100%;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+/*------------------------------- Header Styles -------------------------------------*/
+header {
+	width: 100%;
+}
+#title{
+	font-size: 3.75rem;
+	text-transform: uppercase;
+	color: #D1363A;
+	letter-spacing: 0.1em; 
+	font-weight: normal;
+	line-height: 80px;
+	padding: 0.1em 0;
+}
+#logo{	
+	text-align: center;
+	margin: 0.1em 0;
+}
+/*------------------------------ Main Nav styles ------------------------------------*/
+nav {
+	margin-top: 10%;
+}
+.navigation {
+		margin: 0;
+		padding: 0;
+	}
+.navigation a, .navigation a:link, .navigation a:visited{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #555;
+	display: block;	
+	font-size: 1.125rem;
+	letter-spacing: 0.1em;
+	line-height: 2em;
+	font-weight: normal;
+	border: solid 1px #D1363A;	
+	text-align: center;
+	width: 100%;
+	margin: 0.75em 0;
+}
+.navigation a:active, .navigation a:hover{
+	background-color: #D1363A;
+	color: #FFF !important;
+	font-weight: bold !important;	
+}
+.selected{
+	background-color: #D1363A;
+	color: #FFF !important;
+	font-weight: bold !important;	
+}
+/* Mobile Menu */
+.slide-trigger {
+  display: none; /* need this */
+  cursor: pointer;
+}
+
+#live, #contact, #about {
+	display: block;
+	margin-bottom: 1em;
+}
+	#live h2, #contact h2, #about h2 {
+		font-size: 1.25rem;
+		color: #FFF;
+		text-transform: uppercase;
+		padding: 5px 10px;
+		
+	}
+	#live p, #contact p, #about p {
+		padding: 5px 10px;
+		font-size: 0.875em;
+	}
+
+#live {
+	border: solid 1px #FBCA2F;
+}
+	#live h2 {
+			background-color: #FBCA2F;
+	}
+#about {
+	border: solid 1px #8CCFD7;
+}
+	#about h2 {
+			background-color: #8CCFD7;
+	}
+#contact {
+	border: solid 1px #F08B39;
+}
+	#contact h2 {
+			background-color: #F08B39;
+	}
+/*------------------------------- Body Styles --------------------------------------*/
+#main{
+	padding:5% 0;	
+	width: 100%;
+	height: 100%;
+}
+/*-------------------------------- Footer Styles -----------------------------------*/
+footer{
+	border-top: solid 2px #FBCA2F;	
+	clear: both;
+	background-color: #FFF;
+	width: 100%;
+	max-width: 60em;
+	text-align: center;
+}
+.inner {
+	width:96%;
+	margin: 0% 2%;
+}
+footer ul {
+	margin: 0;
+	padding:0;
+	text-align: center;
+}
+footer li {
+	display: block;
+	float: left;
+	border-left: solid 1px #D1363A;
+	margin: 15px 0px;
+	padding: 0 10px;
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	line-height: 20px;
+}
+	footer li:first-child {
+		border: none;
+	}
+	.footer li a {
+		font-weight: normal;
+	}
+/*----------------------------- Responsive Structure -------------------------------*/
+.row{
+	float: left;
+	width: 96%;	
+	background-color: #FFF;
+	padding:0 2%;
+}
+.col{
+	float: left;
+	height: auto;
+}
+.spacer {
+	width: 4%;
+	height: 100%;
+}
+.one{
+	width: 10%;
+}
+.two{
+	width: 20%;
+}
+.three{
+	width: 28%;
+}
+.four{
+	width: 40%;
+}
+.five{
+	width: 50%;
+}
+.six{
+	width: 60%
+}
+.seven{
+	width: 68%;
+}
+.eight{
+	width: 80%
+}
+.nine{
+	width: 90%
+}
+.ten{
+	width: 100%
+}
+.one-fourth{
+	width: 25%;
+	text-align: center;
+	float: left;	
+}
+.one-third{
+	width: 33.33%;
+	text-align: center;
+	float: left;
+}
+
+/*======================================= Special/Page Specific Styles =================================================*/
+
+.past-speakers{
+	max-width: 100px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;	
+}
+/*----------------------------- Accordion Styles ------------------------------- */
+.AccordionPanel
+{
+	margin-bottom: 20px;
+	padding: 0px;
+}
+.AccordionPanelTab
+{
+	background:#8CCFD7 url(../Images/dropdown.png) no-repeat right;
+	cursor: pointer;
+	height: 100%; 
+	min-height: 40px;
+	padding: 5px 50px 5px 5px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	line-height: 125%;
+}
+.subtitle{
+	text-transform: none;
+	font-style:italic;
+	font-size: 0.875 rem;
+	font-weight: normal;	
+}
+.AccordionPanelContent
+{
+	color: #4e4845;
+	font-size: 11px;
+	height: auto;
+	margin: 0px;
+	overflow: auto;
+	border: solid 1px #8CCFD7;
+}
+.AccordionContent {
+	display: inline-block;
+	padding: 20px;
+	height: auto;
+}
+.AccordionContent img{
+	float: left;
+	margin-right: 1em;
+}
+.AccordionContent ul{
+	margin-left: 1em;
+	margin-bottom: 1em;	
+}
+.AccordionPanelContent h2
+{
+	font-size: 12px!important;
+	margin: 0px;
+	margin-left: 40px;
+	padding: 0px;
+	text-transform: uppercase;
+}
+.AccordionPanelOpen .AccordionPanelTab
+{
+	background-image: url(/FastFacts/images/fastapp_accor2.png);
+	background-repeat: no-repeat;
+	height: 33px;
+	margin: 0px;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+.AccordionPanelOpen
+{
+	background-image: url(/FastFacts/images/core-accor2.png);
+	background-repeat: no-repeat;
+	height: 33px;
+	margin: 0px;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+.AccordionPanelTabHover
+{
+	color: #eaf4df;
+	font-size: 10px;
+	font-weight: bold;
+}
+.AccordionPanelOpen .AccordionPanelTabHover
+{
+	color: #fff;
+}
+/*--------------------------- About The Speakers ------------------------------*/
+.presentation {
+	border: solid 1px #8CCFD7;
+	width: 95%;
+	padding: 2%;
+	margin-bottom: 20px;
+	height: 100%;
+}
+.presenter {
+	width: 100%;
+	display: block;
+}
+.presname {
+	font-size: 1.25rem;
+	font-weight: bold;
+	display: block;
+}
+.prestitle {
+	margin-bottom: 1em;
+}
+.presimage {
+	float: left;
+	width: 30%;
+	}
+	.presimage img {
+		margin-top: 5px;
+		border: solid 1px #8CCFD7;
+	}
+.presbio {
+	float: left;
+	width: 70%;
+}
+	.presbio p {
+		margin-top: 0;
+	}
+/*------------------------------ Career Fair ----------------------------------*/
+#map {
+	display: block;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	width: 100%;
+	position: relative;
+	height: 100%;
+	clear: both;
+	min-height: 300px;
+	max-width: 300px;
+	float: left;
+}
+#map iframe {
+		width: 300px;
+		height: 300px;
+	}
+#location {
+	width: 100%;
+	display: block;
+	margin-bottom: 20px;
+	clear: both;
+}
+/*------------------------------- Schedule -----------------------------------*/
+
+.schedule-day{
+	display: block;
+	clear: both;
+	padding-bottom: 20px !important;
+	width:100%;	
+	position: relative;
+	height: 100%;
+}
+.wedscheduleheader {
+	background-color: #FBCA2F;
+	height: auto;
+	color: #FFF;
+	text-transform: uppercase;
+	display: block;
+	font-size: 1.75rem;
+	padding: 5px 20px;
+}
+.wedschedule-item{
+	display:block;
+	position: relative;	
+	float: left;
+	left: 50px;
+	clear: both;
+	border-left: solid 1px #FBCA2F;
+}
+.wedschedule-time{
+	display: block;
+	padding: 10px 0;
+	border: solid 1px #FBCA2F;	
+	width: 98px;
+	text-align: center;
+	clear: both;
+}
+.wedprestitle{
+	display: block;
+	position: relative;
+	border-bottom: solid 1px #FBCA2F;	
+	width: auto;
+	float: left;
+	padding: 5px 5px 5px 60px;
+	clear: both;
+	max-width: 480px;
+	font-size: 1.05rem;
+	font-weight: bold;
+}
+.wedpresname{
+	display: block;
+	position: relative;
+	border-left: solid 1px #FBCA2F;	
+	border-bottom: solid 1px #FBCA2F;
+	width: auto;
+	float: left;
+	padding: 5px;
+	margin: 0 5px 5px 80px;
+	clear: both;
+}
+.wedspacer{
+	height: 20px;	
+	width: 40px;
+	display: block;
+	clear: both;
+	border-left: solid 1px #FBCA2F;
+	position: relative;
+	left: 50px;
+}
+.thursschedule-item{
+	display:block;
+	position: relative;	
+	float: left;
+	left: 50px;
+	clear: both;
+	border-left: solid 1px #8CCFD7;
+}
+.thursschedule-time{
+	display: block;
+	padding: 10px 0;
+	border: solid 1px #8CCFD7;	
+	width: 98px;
+	text-align: center;
+	clear: both;
+}
+.thursprestitle{
+	display: block;
+	position: relative;
+	border-bottom: solid 1px #8CCFD7;	
+	width: auto;
+	float: left;
+	padding: 5px 5px 5px 60px;
+	clear: both;
+	max-width: 480px;
+	font-size: 1.05rem;
+	font-weight: bold;
+}
+.thurspresname{
+	display: block;
+	position: relative;
+	border-left: solid 1px #8CCFD7;	
+	border-bottom: solid 1px #8CCFD7;
+	width: auto;
+	float: left;
+	padding: 5px;
+	margin: 0 5px 5px 80px;
+	clear: both;
+}
+.thursspacer{
+	height: 20px;	
+	width: 40px;
+	display: block;
+	clear: both;
+	border-left: solid 1px #8CCFD7;
+	position: relative;
+	left: 50px;
+}
+.thursscheduleheader {
+	background-color: #8CCFD7;
+	height:auto;
+	color: #FFF;
+	text-transform: uppercase;
+	display: block;
+	font-size: 1.75rem;
+	padding: 5px 20px;
+}
+
+.frischeduleheader {
+	background-color: #F08B39;
+	height: auto;
+	color: #FFF;
+	text-transform: uppercase;
+	display: block;
+	font-size: 1.75rem;
+	padding: 5px 20px;
+}
+.frischedule-item{
+	display:block;
+	position: relative;	
+	float: left;
+	left: 50px;
+	clear: both;
+	border-left: solid 1px #F08B39;
+}
+.frischedule-time{
+	display: block;
+	padding: 10px 0;
+	border: solid 1px #F08B39;	
+	width: 98px;
+	text-align: center;
+	clear: both;
+}
+.friprestitle{
+	display: block;
+	position: relative;
+	border-bottom: solid 1px #F08B39;	
+	width: auto;
+	float: left;
+	padding: 5px 5px 5px 60px;
+	clear: both;
+	max-width: 480px;
+	font-size: 1.05rem;
+	font-weight: bold;
+}
+.fripresname{
+	display: block;
+	position: relative;
+	border-left: solid 1px #F08B39;	
+	border-bottom: solid 1px #F08B39;
+	width: auto;
+	float: left;
+	padding: 5px;
+	margin: 0 5px 5px 80px;
+	clear: both;
+}
+.frispacer{
+	height: 20px;	
+	width: 40px;
+	display: block;
+	clear: both;
+	border-left: solid 1px #F08B39;
+	position: relative;
+	left: 50px;
+}
+
+/*----------------------- Responsive Video Embed ------------------------------*/
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+	margin-bottom: 30px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+*/
+/*=============================================== Mobile Styles ======================================================*/
+
+/*------------------------ Tablet Landscape to Desktop ------------------------*/
+@media screen and (min-width: 760px) and (max-width: 1000px){ 
+	#wrapper{
+		width: 92%;
+		margin: 0 auto;		
+	}
+	.tagline{
+		font-size: 1.75rem;
+	}
+	header {
+		height: auto;
+		margin: 0;
+		padding: 0;
+	}
+	#header{
+		font-size: 3rem;
+	}
+	h1 {
+		margin-top: 0px;
+		line-height: 100%;
+	}
+	.seven {
+		width: 100%;
+		padding: 0;
+	}
+	.one,
+	.five,
+	.eleven,
+	.twelve{
+		width: 94%;	
+	}
+	nav ul{
+		margin: 0;
+		padding: 0;
+	}
+	nav li {
+		list-style: none;
+	}
+	nav li a, nav li a:link, nav li a:active, nav li a:visited{
+		list-style-type: none;
+		line-height: 100%;
+		font-size: 0.8rem;
+		text-align: center;
+		padding: 5px 0;
+
+	}
+
+		footer ul {
+			margin: 0 auto;
+			display: block;
+			height: 100%;
+			position: relative;
+			width: 94%;
+			text-align: center;
+			padding: 0 3%;
+		}
+		footer li {
+			font-size: 0.62rem;
+			padding: 0 5px;
+		}
+	.inner {
+		width: auto;
+		margin: 0 auto;
+		height: 100%;
+		position: relative;
+	}
+}
+
+/*------------------- Feature Phones to Large Phone Landscape -----------------*/
+@media screen and (min-width: 0px) and (max-width: 640px){ /*Feature Phones to Large Phone Landscape*/
+	body, p {
+		line-height: 150%;
+	}
+	#wrapper{
+		width: 100%;
+		margin: 0;	
+		height: 100%;	
+		position: relative;
+	}
+	.row {
+		width: 100%;
+		padding: 0;
+	}
+	.three {
+		padding: 0;
+		width: 100%;
+		margin: 0;
+		clear: both;
+		height: auto;
+	}
+	.seven {
+		width: 100%;
+		padding: 0;
+	}
+	.one-third,
+	.one,
+	.four,
+	.five,
+	.six,
+	.nine,
+	.eleven,
+	.twelve{
+		width: 90%;
+		padding: 5%;	
+	}
+	h1{
+		font-size: 1.25rem;
+		margin: 2px 5%;
+		display: block;
+		width: 90%;
+	}
+	h2{
+		font-size: 1.15rem;
+		margin: 2px 5%;
+		display: block;
+		width: 90%;
+	}
+	h3 {
+		font-size: 1.05rem;
+		margin: 2px 5%;
+		display: block;
+		width: 90%;
+	}
+	h4 {
+		font-size: 1rem;
+		margin: 2px 5%;
+		display: block;
+		width: 90%;
+	}
+	#main{
+		padding:10px 0;	
+	}
+	#main p {
+		display: block;
+		width: 90%;
+		padding: 0 5%;
+	}
+	.inner {
+		position: relative;
+		height: 100%;
+		width: 100%;
+		margin: 0;
+	}
+
+	footer {
+		width: 100%;
+		height: auto;
+		position: relative;
+	}
+		footer ul {
+			margin: 10px 0;
+			height: 100%;
+			position: relative;
+		}
+		footer li{
+			border: none;
+			display: block;
+			width: 100%;
+			margin: 5px 0;
+			text-align: center;
+			line-height: normal;
+			padding: 0;
+			height: auto;
+			font-size: 0.75rem;
+			float: none;
+		}
+
+	.tagline{
+		height: 0;
+		overflow: hidden;
+		padding: 0 !important;
+		width: 100%;
+		border-bottom: solid 2px #FBCA2F;
+		margin-top: 17px;
+	}
+	.AccordionContent img{
+		display: block;
+		clear: both;
+		margin-bottom: 1em;
+	}
+	#header{
+		font-size: 2rem;
+		padding-top: 10px;
+		line-height: 100%;
+	}
+	#logo img{
+		width: 50px;
+		height: 50px;
+	}
+	header {
+	padding: 0;
+	}
+	#map iframe {
+		width: 100%;
+		height: 300px;
+	}
+	#map {
+	margin: 5%;
+	width: 90%;
+	height: 90%;
+	min-height: 90%;
+	max-width: 90%;
+}
+	nav {
+		margin-top: 0;
+		background: url(../Images/shadow-top.png) top left repeat-x, url(../Images/shadow-bottom.png) bottom left repeat-x;
+		border-bottom: solid 1px #FBCA2F;
+	}
+	.navigation {
+		display: none;
+		width: 100%;
+		height: 100%;
+	}
+	.group {
+	width: 100%;
+	height: 100%;
+	}
+		.group a, 
+		.group a:link, 
+		.group a:active, 
+		.group a:visited{
+			line-height: 2.5em;
+			border-bottom: none;
+			border-left: none;
+			border-right: none;
+			border-top: solid 1px #D1363A;
+			width: 100%;
+			padding:0;
+			font-size: 1rem;
+			text-transform: uppercase;
+			letter-spacing: 0.1em;
+			margin: 0;
+		}
+		.group a:first-child {
+			border: none;
+			background: none;
+		}
+		.group a:active, 
+		.group a:hover{
+			background: none;
+			color: #D1363A !important;
+			line-height: 2.5em;
+			font-weight: normal !important;
+			font-size: 1rem;
+		}
+		.selected{
+			background: none !important;
+			color: #D1363A !important;
+			font-weight: normal !important;	
+		}
+		.slide-trigger { 
+			display: block;
+			background-color: #FBCA2F; 
+			font-size: 1.25rem;
+			line-height: 1.25em;
+			text-transform: uppercase;
+			color: #D1363A;
+			float: right;
+			padding: 0 10px 0 30px;
+		}
+		.navheader {
+			display: block;
+			background: #FBCA2F url(../Images/menu-drop.png) left no-repeat;
+			height: 30px;
+			clear: both;
+			position: relative;
+			float: right;
+			top: -31px;
+			line-height: 30px;
+		}
+		.no-js 
+		.slide-trigger{ 
+			display: none; 
+		}
+		.no-js
+		.navigation{ 
+			display: block; 
+		}
+
+	.presentationtitle {
+		display: block;
+		background-color: #8CCFD7;
+		width: 90%;
+		padding: 5px 5%;
+		margin: 10px 0;
+		}
+	.presentationtitle h3 {
+		color: #FFF;
+		margin: 0;
+		text-transform: uppercase;
+	}
+	.presimage {
+		width: 20%;
+		float: left;
+		overflow: hidden;
+		padding: 0 5%;
+		position: relative;
+		top: -30px;
+	}
+		.presimage img {
+			max-width: 100%;
+		}
+	.presbio {
+		width: 100%;
+		display: block;
+	}
+	.presbio p {
+		display: block;
+		clear: both;
+	}
+	.presname {
+		color: #D1363A;
+		font-weight: bold;
+		font-size: 1rem;
+		float: right;
+		width: 70%;
+	}
+	.prestitle {
+		font-style: italic;
+		display: block;
+		float: right;
+		width: 70%;
+	}
+	.presentation {
+		border: none;
+		width: 100%;
+		padding: 0;
+	}
+	.schedule-day {
+		margin-top: 20px;
+	}
+	.wedschedule-item,
+	.thursschedule-item,
+	.frischedule-item{
+		left: 0;
+		border-left: none;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.wedscheduleheader,
+	.thursscheduleheader,
+	.frischeduleheader {
+		font-size: 1.2rem;
+		padding: 5px 5%;
+		width: 90%;
+	}
+	.wedschedule-time,
+	.thursschedule-time,
+	.frischedule-time{
+		padding: 5px 0;
+		left: 0
+	}
+	.wedprestitle,
+	.thursprestitle,
+	.friprestitle{
+		width: 90%;
+		padding: 5px 5%;
+		font-size: 1rem;
+		border-bottom: none;
+	}
+	.wedpresname,
+	.thurspresname,
+	.fripresname{
+		width: 90%;
+		padding: 5px 5%;
+		border: none;
+		margin: 0;
+	}
+	.wedspacer,
+	.thursspacer,
+	.frispacer{
+		width: 100%;
+		height: 20px;
+		border-left: none;
+		left: 0;
+	}
+}
